@@ -1,0 +1,2 @@
+import diffusion2d_packages.diffusion2d
+diffusion2d_packages.diffusion2d.solve()

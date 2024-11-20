@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: nagannhh_packages
+Version: 0.0.1
+Summary: A package to solve 2D diffusion equation test exercise
+Home-page: https://github.com/harshithn31/diffusion2D
+Author: nagannhh
+License-File: LICENSE
+Requires-Dist: numpy>=2.1.3
+Requires-Dist: matplotlib>=3.9.2
+Requires-Dist: setuptools>=75.5.0

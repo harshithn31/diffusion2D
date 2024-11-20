@@ -1,0 +1,2 @@
+[console_scripts]
+diffusion2d-solve = diffusion2d_packages.diffusion2d:solve
